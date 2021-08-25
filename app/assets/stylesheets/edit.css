@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.error {
+  color: red;
+}
+
+h4 {
+  margin-top: 10px;
+  font-weight: 300;
+}
+
+.submit {
+  margin-top: 10px;
+}
+
+.button2 {
+  margin: 0;
+  margin-left: 0;
+}
